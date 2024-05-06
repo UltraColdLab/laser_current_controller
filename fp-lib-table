@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "accessories_current_controller")(type "KiCad")(uri "${KIPRJMOD}/accessories_current_controller.pretty")(options "")(descr ""))
+)
